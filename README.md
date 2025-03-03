@@ -1,4 +1,4 @@
-# CS-3460
+# CS-360
 Mobile Architecture &amp; Programming 
 1. Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 > I created a weight-tracking mobile app designed to help users set and achieve their weight goals, promoting good health. The primary goal of the app is to allow users to monitor their weight trends over time, make adjustments to their routines based on progress, and stay motivated. This app addresses the user need for a simple, efficient way to track weight and health-related goals without overwhelming them with unnecessary features.
