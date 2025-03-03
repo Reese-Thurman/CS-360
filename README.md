@@ -4,7 +4,7 @@ Mobile Architecture &amp; Programming
 > I created a weight-tracking mobile app designed to help users set and achieve their weight goals, promoting good health. The primary goal of the app is to allow users to monitor their weight trends over time, make adjustments to their routines based on progress, and stay motivated. This app addresses the user need for a simple, efficient way to track weight and health-related goals without overwhelming them with unnecessary features.
 
 2. What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-> The app included several key screens and features to ensure it met user needs. These included:
+> The app included several key screens and features to ensure it met user needs. These included-
 Login screen: To ensure user data was secure and accessible.
 Goal weight setting screen: Allowing users to set personalized weight goals.
 Dashboard screen: This displayed weight progress over time, showing trends and motivating users.
